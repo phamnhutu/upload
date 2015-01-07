@@ -1,0 +1,1 @@
+folder cs em tu code da lay du lieu, xoa du lieu trong database, hien tai chua hoan thien add, edit record

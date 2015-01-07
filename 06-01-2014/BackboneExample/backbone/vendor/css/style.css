@@ -1,0 +1,42 @@
+#form-add-person {
+	display: none;
+}
+.icon-remove {
+	cursor: pointer;
+}
+#list-person {
+	width: 500px;
+}
+#master {
+	margin: 40px auto;
+	width: 800px;
+}
+.profile {
+	padding: 5px;
+	width: 220px;
+	margin: 5px;
+	background: #F3F3F3;
+}
+.profile-avatar img {
+	width: 80px;
+}
+.profile-infomation {
+	padding: 5px 0;
+	font-size: 12px;
+}
+.profile-infomation p {
+	padding: 0;
+	margin: 0;
+}
+.profile-infomation p:last-child {
+	cursor: pointer;
+}
+.person-add-view {
+	padding: 10px 0;
+}
+.personView {
+	overflow: hidden;
+}
+.detail-right {
+	padding-left: 10px;
+}
